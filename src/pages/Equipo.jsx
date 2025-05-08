@@ -8,7 +8,7 @@ import andres from '../static/images/integrantes/yo.jpeg';
 
 const equipo = [
   {
-    nombre: 'Angie Moreno',
+    nombre: 'Angie Santos',
     rol: 'Gestión Documental y Coordinación',
     descripcion:
       'Encargada de la elaboración, organización y entrega de toda la documentación del proyecto. Aseguró la claridad y coherencia en los reportes, cronogramas y entregables. También coordinó tareas clave y gestionó el cumplimiento de los tiempos establecidos.',
